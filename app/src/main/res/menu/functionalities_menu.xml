@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/menu_item_profile"
+        android:id="@+id/menuProfile">
+
+    </item>
+    <item android:title="@string/menu_item_history"
+        android:id="@+id/menuHistory">
+    </item>
+
+    <item android:title="@string/changeLanguage"
+        android:id="@+id/menuChangeLanguage">
+    </item>
+
+    <item android:title="@string/credits"
+        android:id="@+id/menuCredits">
+    </item>
+
+</menu>

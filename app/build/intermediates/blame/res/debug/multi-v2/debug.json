@@ -1,0 +1,1503 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ea2c299c981137465a282181017839d5/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,13,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,724,5935",
+                        "endLines": "2,12,101,104",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,719,5930,6075"
+                    },
+                    "to": {
+                        "startLines": "16,179,189,540",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "666,14735,15343,35991",
+                        "endLines": "16,188,277,542",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "722,15338,20549,36131"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,28,5,3,4,24,23,17,41,34,12,40,39,38,20,37,31,43,44,47,42,49,16,15,11,7,10,8,6,9,2,35,36,30,29,32,33,27,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,1245,222,114,167,1110,1064,889,2029,1630,655,1972,1916,1850,969,1806,1422,2151,2222,2315,2093,2409,832,768,575,339,513,393,278,452,64,1689,1749,1359,1302,1486,1564,1188,2373",
+                        "endColumns": "47,56,55,52,54,45,45,55,63,58,67,56,55,65,56,43,63,70,56,57,57,37,56,63,79,53,61,58,60,60,49,59,56,62,56,77,65,56,35",
+                        "endOffsets": "59,1297,273,162,217,1151,1105,940,2088,1684,718,2024,1967,1911,1021,1845,1481,2217,2274,2368,2146,2442,884,827,650,388,570,447,334,508,109,1744,1801,1417,1354,1559,1625,1240,2404"
+                    },
+                    "to": {
+                        "startLines": "469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,507,508",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "31898,31946,32003,32059,32112,32167,32213,32259,32315,32379,32438,32506,32563,32619,32685,32742,32786,32850,32921,32978,33036,33094,33132,33189,33253,33333,33387,33449,33508,33569,33630,33680,33740,33797,33860,33917,33995,34132,34189",
+                        "endColumns": "47,56,55,52,54,45,45,55,63,58,67,56,55,65,56,43,63,70,56,57,57,37,56,63,79,53,61,58,60,60,49,59,56,62,56,77,65,56,35",
+                        "endOffsets": "31941,31998,32054,32107,32162,32208,32254,32310,32374,32433,32501,32558,32614,32680,32737,32781,32845,32916,32973,33031,33089,33127,33184,33248,33328,33382,33444,33503,33564,33625,33675,33735,33792,33855,33912,33990,34056,34184,34220"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8576b85156af4a535be37bfdec9a1364/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,30,31,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,1535,1594,1642,1698,1773,1849,1921",
+                        "endLines": "29,30,31,32,33,34,35,36",
+                        "endColumns": "24,58,47,55,74,75,71,65",
+                        "endOffsets": "1530,1589,1637,1693,1768,1844,1916,1982"
+                    },
+                    "to": {
+                        "startLines": "398,436,437,438,439,440,441,459",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "27770,29908,29967,30015,30071,30146,30222,31420",
+                        "endLines": "425,436,437,438,439,440,441,459",
+                        "endColumns": "24,58,47,55,74,75,71,65",
+                        "endOffsets": "29245,29962,30010,30066,30141,30217,30289,31481"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5f987d8845c64dabc104c391499a9ff2/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,11,12,13,14,15,19,20,21,22,25,26,29,32,33,34,35,36,39,42,43,44,45,50,53,56,57,58,63,64,65,68,71,72,75,78,81,84,85,88,91,92,97,98,103,106,109,110,111,112,113,114,115,116,117,118,127,128,129,130",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,407,455,507,568,614,741,802,862,932,1065,1133,1262,1388,1450,1515,1583,1650,1773,1898,1965,2030,2095,2276,2397,2518,2584,2651,2861,2930,2996,3121,3247,3314,3440,3567,3692,3819,3884,4010,4133,4198,4406,4473,4653,4773,4893,4958,5020,5082,5144,5203,5263,5324,5385,5444,5819,8395,8527,11791",
+                        "endLines": "2,10,11,12,13,14,18,19,20,21,24,25,28,31,32,33,34,35,38,41,42,43,44,49,52,55,56,57,62,63,64,67,70,71,74,77,80,83,84,87,90,91,96,97,102,105,108,109,110,111,112,113,114,115,116,117,126,127,128,129,130",
+                        "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
+                        "endOffsets": "111,402,450,502,563,609,736,797,857,927,1060,1128,1257,1383,1445,1510,1578,1645,1768,1893,1960,2025,2090,2271,2392,2513,2579,2646,2856,2925,2991,3116,3242,3309,3435,3562,3687,3814,3879,4005,4128,4193,4401,4468,4648,4768,4888,4953,5015,5077,5139,5198,5258,5319,5380,5439,5814,8390,8522,11786,11894"
+                    },
+                    "to": {
+                        "startLines": "2,3,12,13,14,15,17,21,22,23,24,27,28,31,34,35,36,37,38,41,44,45,46,47,52,55,58,59,60,65,66,67,70,73,74,77,80,83,86,87,90,93,94,99,100,105,108,111,112,113,114,115,116,117,118,119,120,176,177,178,397",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,459,507,559,620,727,854,915,975,1045,1178,1246,1375,1501,1563,1628,1696,1763,1886,2011,2078,2143,2208,2389,2510,2631,2697,2764,2974,3043,3109,3234,3360,3427,3553,3680,3805,3932,3997,4123,4246,4311,4519,4586,4766,4886,5006,5071,5133,5195,5257,5316,5376,5437,5498,5557,8763,11339,11471,27662",
+                        "endLines": "2,10,12,13,14,15,20,21,22,23,26,27,30,33,34,35,36,37,40,43,44,45,46,51,54,57,58,59,64,65,66,69,72,73,76,79,82,85,86,89,92,93,98,99,104,107,110,111,112,113,114,115,116,117,118,119,128,176,177,178,397",
+                        "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
+                        "endOffsets": "111,402,502,554,615,661,849,910,970,1040,1173,1241,1370,1496,1558,1623,1691,1758,1881,2006,2073,2138,2203,2384,2505,2626,2692,2759,2969,3038,3104,3229,3355,3422,3548,3675,3800,3927,3992,4118,4241,4306,4514,4581,4761,4881,5001,5066,5128,5190,5252,5311,5371,5432,5493,5552,5927,11334,11466,14730,27765"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c1dbafaca0e27ff56495718a07d39389/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,35,36,37,38,45,47,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,168,230,292,356,2179,2238,2295,2349,2763,2827,2953",
+                        "endLines": "2,3,4,5,6,34,35,36,37,44,46,49,52",
+                        "endColumns": "51,60,61,61,63,24,58,56,53,12,12,12,12",
+                        "endOffsets": "102,163,225,287,351,2174,2233,2290,2344,2758,2822,2948,3076"
+                    },
+                    "to": {
+                        "startLines": "11,129,130,131,132,141,426,427,428,512,519,521,524",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "407,5932,5993,6055,6117,6642,29250,29309,29366,34362,34776,34840,34966",
+                        "endLines": "11,129,130,131,132,168,426,427,428,518,520,523,526",
+                        "endColumns": "51,60,61,61,63,24,58,56,53,12,12,12,12",
+                        "endOffsets": "454,5988,6050,6112,6176,8460,29304,29361,29415,34771,34835,34961,35089"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "186"
+                    },
+                    "to": {
+                        "startLines": "509",
+                        "startColumns": "4",
+                        "startOffsets": "34225",
+                        "endLines": "511",
+                        "endColumns": "12",
+                        "endOffsets": "34357"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,319,617,3523,5588,7348,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652",
+                        "endLines": "2,3,4,5,12,55,87,124,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,240,314,612,3518,5583,7343,7720,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714"
+                    },
+                    "to": {
+                        "startLines": "137,138,139,140,169,278,321,353,390,429,430,431,432,433,434,435,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,460,461,462,463,464,465,466,467,468,506,527,528,532,533,537,538,539",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6378,6447,6510,6568,8465,20554,23460,25525,27285,29420,29490,29558,29630,29700,29761,29835,30294,30355,30416,30478,30542,30604,30665,30733,30833,30893,30959,31032,31101,31158,31210,31272,31344,31486,31521,31556,31606,31667,31724,31758,31793,31828,34061,35094,35211,35412,35522,35723,35852,35924",
+                        "endLines": "137,138,139,140,175,320,352,389,396,429,430,431,432,433,434,435,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,460,461,462,463,464,465,466,467,468,506,527,531,532,536,537,538,539",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "6442,6505,6563,6637,8758,23455,25520,27280,27657,29485,29553,29625,29695,29756,29830,29903,30350,30411,30473,30537,30599,30660,30728,30828,30888,30954,31027,31096,31153,31205,31267,31339,31415,31516,31551,31601,31662,31719,31753,31788,31823,31893,34127,35206,35407,35517,35718,35847,35919,35986"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "153,55,102,199",
+                        "endColumns": "45,46,50,52",
+                        "endOffsets": "194,97,148,247"
+                    },
+                    "to": {
+                        "startLines": "133,134,135,136",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "6181,6227,6274,6325",
+                        "endColumns": "45,46,50,52",
+                        "endOffsets": "6222,6269,6320,6373"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/src/main/res/values-pt/strings.xml",
+                    "from": {
+                        "startLines": "1,28,5,3,4,24,23,17,41,34,12,40,39,38,20,37,31,43,44,47,42,49,16,15,11,7,10,8,6,9,2,35,36,30,29,32,33,27,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,1236,225,114,167,1099,1051,882,2031,1620,654,1972,1911,1844,962,1799,1414,2153,2222,2320,2092,2421,825,763,573,336,515,392,277,451,64,1679,1741,1349,1293,1477,1552,1178,2381",
+                        "endColumns": "47,56,51,52,57,46,47,55,60,58,63,58,60,66,50,44,62,68,61,60,60,40,56,61,80,55,57,58,58,63,49,61,57,64,55,74,67,57,39",
+                        "endOffsets": "59,1288,272,162,220,1141,1094,933,2087,1674,713,2026,1967,1906,1008,1839,1472,2217,2279,2376,2148,2457,877,820,649,387,568,446,331,510,109,1736,1794,1409,1344,1547,1615,1231,2416"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,160,212,265,323,370,418,474,535,594,658,717,778,845,896,941,1004,1073,1135,1196,1257,1298,1355,1417,1498,1554,1612,1671,1730,1794,1844,1906,1964,2029,2085,2160,2329,2387",
+                        "endColumns": "47,56,51,52,57,46,47,55,60,58,63,58,60,66,50,44,62,68,61,60,60,40,56,61,80,55,57,58,58,63,49,61,57,64,55,74,67,57,39",
+                        "endOffsets": "98,155,207,260,318,365,413,469,530,589,653,712,773,840,891,936,999,1068,1130,1191,1252,1293,1350,1412,1493,1549,1607,1666,1725,1789,1839,1901,1959,2024,2080,2155,2223,2382,2422"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "2228",
+                        "endColumns": "100",
+                        "endOffsets": "2324"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c1dbafaca0e27ff56495718a07d39389/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbc2a06cad92c42427f1fc9a3139ea83/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

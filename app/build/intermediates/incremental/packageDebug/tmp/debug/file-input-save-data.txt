@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Oct 23 18:44:12 WEST 2019
+1.base=/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/transforms/dexMerger/debug/1
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/transforms/dexMerger/debug/0
+2.baseType=DIRECTORY
+1.path=fonts/Acme_Regular.ttf

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GameActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:orientation="vertical"
+        android:background="#000000">
+
+        <GridView
+            android:id="@+id/gameGridView"
+            android:layout_width="match_parent"
+            android:layout_height="375dp"
+            android:layout_margin="10dp"
+            android:horizontalSpacing="1dp"
+            android:numColumns="9"
+            android:verticalSpacing="1dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/PlayerPieces"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/white_pieces"
+                    android:textColor="#FFFFFF"
+                    android:layout_weight="1"/>
+                <TextView
+                    android:id="@+id/OpponentPieces"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/black_pieces"
+                    android:textColor="#FFFFFF"
+                    android:layout_weight="1"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp">
+
+                <ImageView
+                    android:id="@+id/OpponentImage"
+                    android:layout_width="50dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:src="@mipmap/ic_launcher"
+
+                    android:background="@drawable/roundbuttons"/>
+                <TextView
+                    android:id="@+id/OpponentName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Opponent Name"
+                    android:paddingLeft="10dp"
+                    android:textColor="#FFFFFF"
+                    android:layout_weight="2"/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.80"
+        android:orientation="horizontal"
+        android:background="#000000">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:id="@+id/PlayAgainCard"
+            android:layout_gravity="left"
+            android:layout_weight="1"
+            android:src="@drawable/back_cards"
+            android:scaleType="fitXY"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:id="@+id/IgnoreTurnCard"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            android:src="@drawable/back_cards"
+            android:scaleType="fitXY"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Wed Oct 23 18:44:11 WEST 2019
+base.0=/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/transforms/dexMerger/debug/0

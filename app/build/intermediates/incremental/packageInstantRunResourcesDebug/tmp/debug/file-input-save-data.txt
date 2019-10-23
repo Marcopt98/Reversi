@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 08 13:55:50 WET 2019
+0.baseType=DIRECTORY
+0.base=/Users/macbookpro/Documents/Universidade/Engenharia Informática/3º Ano/1 Semestre/Arquiteturas Móveis/Trabalho Prático/AMOV.2018.2019.21260401_MarcoLopes.21260412_MarcoDuarte/Android/TPAMOV-ReversISEC/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.path=fonts/Acme_Regular.ttf
+0.set=ASSET
+count=1

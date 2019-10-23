@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ReversISEC</string>
+    <string name="menu_title">ReversISEC</string>
+    <string name="btn_OnePlayer">One Player</string>
+    <string name="btn_TwoPlayers">Two Players</string>
+    <string name="btn_Multiplayer">Multiplayer</string>
+    <string name="menu_item_profile">Manage Profile</string>
+    <string name="menu_item_history">History</string>
+    <string name="menu_item_oneplayer">One Player</string>
+    <string name="menu_item_twoplayers">Two Players</string>
+    <string name="menu_item_multiplayer">Multiplayer</string>
+    <string name="menu_create_profile_warning">Create a profile first!</string>
+    <string name="choose_language">Choose your language...</string>
+
+    //Strings for the ManageProfileActivity
+    <string name="manage_profile_title">Manage Profile</string>
+    <string name="manage_profile_setName">Name:</string>
+    <string name="btn_take_picture">Take Photo</string>
+
+    //String for Menus
+    <string name="confirm_menu">Confirm Profile</string>
+
+    //Strings for Server/Client Menu
+    <string name="btn_server">Server</string>
+    <string name="btn_client">Client</string>
+
+    //Strings for GameActivity
+    <string name="white_pieces">White Pieces - </string>
+    <string name="black_pieces">Black Pieces - </string>
+    <string name="player_pieces">Your Pieces - </string>
+    <string name="opponent_pieces">Opponent Pieces - </string>
+    <string name="error_netconn">No network connection</string>
+    <string name="server_dialog_msg">Waiting for the other player...</string>
+    <string name="server_dialog_title">ReversISEC Server</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="opponent_name_computer">Computer</string>
+    <string name="opponent_name_player">Player2</string>
+    <string name="credits">Credits</string>
+    <string name="client_dialog_title">ReversISEC Client</string>
+    <string name="client_dialog_msg">Server IP</string>
+    <string name="client_dialog_button">Confirm</string>
+    <string name="card_warning">Already used the card!</string>
+    <string name="invalid_warning">Invalid move!</string>
+    <string name="game_winner_msg">The winner of the game is </string>
+    <string name="game_winner_title">Game Ends!</string>
+
+    //Strings for History Activity
+    <string name="history_title">Game\'s History</string>
+    <string name="win">WIN</string>
+    <string name="lost">LOST</string>
+</resources>

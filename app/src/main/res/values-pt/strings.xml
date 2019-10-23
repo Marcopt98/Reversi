@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ReversISEC</string>
+    <string name="menu_title">ReversISEC</string>
+    <string name="btn_OnePlayer">Um Jogador</string>
+    <string name="btn_TwoPlayers">Dois Jogadores</string>
+    <string name="btn_Multiplayer">Em Rede</string>
+    <string name="menu_item_profile">Gerir Perfil</string>
+    <string name="menu_item_history">Histórico</string>
+    <string name="menu_item_oneplayer">Um Jogador</string>
+    <string name="menu_item_twoplayers">Dois Jogadores</string>
+    <string name="menu_item_multiplayer">Em Rede</string>
+    <string name="menu_create_profile_warning">Crie um perfil primeiro!</string>
+    <string name="choose_language">Escolha o idioma...</string>
+
+    //Strings for the ManageProfileActivity
+    <string name="manage_profile_title">Gerir Perfil</string>
+    <string name="manage_profile_setName">Nome:</string>
+    <string name="btn_take_picture">Tirar Foto</string>
+
+    //String for Menus
+    <string name="confirm_menu">Confirmar</string>
+
+    //Strings for Server/Client Menu
+    <string name="btn_server">Servidor</string>
+    <string name="btn_client">Cliente</string>
+
+    //Strings for GameActivity
+    <string name="white_pieces">Pecas Brancas - </string>
+    <string name="black_pieces">Pecas Pretas - </string>
+    <string name="player_pieces">Tuas Pecas - </string>
+    <string name="opponent_pieces">Pecas Adversarias - </string>
+    <string name="error_netconn">Sem conexeao de rede</string>
+    <string name="server_dialog_msg">À espera do outro jogador...</string>
+    <string name="server_dialog_title">Servidor ReversISEC</string>
+    <string name="changeLanguage">Mudar de Idioma</string>
+    <string name="opponent_name_computer">Computador</string>
+    <string name="opponent_name_player">Jogador2</string>
+    <string name="credits">Créditos</string>
+    <string name="client_dialog_title">Cliente ReversISEC</string>
+    <string name="client_dialog_msg">IP do Servidor</string>
+    <string name="client_dialog_button">Confirmar</string>
+    <string name="card_warning">Já usou essa carta!</string>
+    <string name="invalid_warning">Jogada Inválida!</string>
+    <string name="game_winner_msg">O vencedor da partida é </string>
+    <string name="game_winner_title">Acabou Partida!</string>
+
+    //Strings for History Activity
+    <string name="history_title">Histórico de Jogos</string>
+    <string name="win">VITÓRIA</string>
+    <string name="lost">DERROTA</string>
+</resources>

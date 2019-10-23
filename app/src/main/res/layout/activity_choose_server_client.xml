@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context=".ChooseServerClientActivity">
+
+    <ImageView
+        android:id="@+id/MenuImage"
+        android:layout_width="match_parent"
+        android:layout_height="164dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/menu_image" />
+
+    <TextView
+        android:id="@+id/MenuTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/menu_title"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp"
+        android:layout_margin="15dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnOnePlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_server"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/roundbuttons"
+        android:layout_margin="15dp"
+        android:onClick="onServer"/>
+    <Button
+        android:id="@+id/btnTwoPlayers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_client"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/roundbuttons"
+        android:layout_margin="15dp"
+        android:onClick="onClient"/>
+
+</LinearLayout>

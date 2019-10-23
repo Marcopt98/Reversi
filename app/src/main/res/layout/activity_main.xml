@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/MenuImage"
+        android:layout_width="match_parent"
+        android:layout_height="164dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/menu_image"/>
+
+    <TextView
+        android:id="@+id/MenuTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:text="@string/menu_title"
+        android:textSize="36sp"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnOnePlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_OnePlayer"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/roundbuttons"
+        android:layout_margin="15dp"
+        android:onClick="onOnePlayer"/>
+
+    <Button
+        android:id="@+id/btnTwoPlayers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_TwoPlayers"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/roundbuttons"
+        android:layout_margin="15dp"
+        android:onClick="onTwoPlayers"/>
+    <Button
+        android:id="@+id/btnMultiplayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="@string/btn_Multiplayer"
+        android:background="@drawable/roundbuttons"
+        android:layout_margin="15dp"
+        android:onClick="onMultiplayer"/>
+
+</LinearLayout>
